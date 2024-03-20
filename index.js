@@ -104,5 +104,3 @@ function animate2(classname){
 
     
 }
-
-//wefddf
