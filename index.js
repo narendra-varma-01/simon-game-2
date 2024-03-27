@@ -105,4 +105,4 @@ function animate2(classname){
     
 }
 
-// for duplicate branch
+// for main branch
